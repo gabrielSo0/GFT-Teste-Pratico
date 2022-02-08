@@ -1,0 +1,15 @@
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\cinco-numeros.exe
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\cinco-numeros.deps.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\cinco-numeros.runtimeconfig.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\cinco-numeros.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\ref\cinco-numeros.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\bin\Debug\net6.0\cinco-numeros.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.csproj.AssemblyReference.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.AssemblyInfoInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.AssemblyInfo.cs
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\ref\cinco-numeros.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\cinco-numeros\obj\Debug\net6.0\cinco-numeros.genruntimeconfig.cache

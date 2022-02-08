@@ -1,0 +1,15 @@
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\calcular-dias.exe
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\calcular-dias.deps.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\calcular-dias.runtimeconfig.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\calcular-dias.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\ref\calcular-dias.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\bin\Debug\net6.0\calcular-dias.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.csproj.AssemblyReference.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.AssemblyInfoInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.AssemblyInfo.cs
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\ref\calcular-dias.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\calcular-dias\obj\Debug\net6.0\calcular-dias.genruntimeconfig.cache

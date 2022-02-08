@@ -1,0 +1,15 @@
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\trabalhando-com-listas.exe
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\trabalhando-com-listas.deps.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\trabalhando-com-listas.runtimeconfig.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\trabalhando-com-listas.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\ref\trabalhando-com-listas.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\bin\Debug\net6.0\trabalhando-com-listas.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.csproj.AssemblyReference.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.AssemblyInfoInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.AssemblyInfo.cs
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\ref\trabalhando-com-listas.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\gft-teste-pratico\trabalhando-com-listas\obj\Debug\net6.0\trabalhando-com-listas.genruntimeconfig.cache
